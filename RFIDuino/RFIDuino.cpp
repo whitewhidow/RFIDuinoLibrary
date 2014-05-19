@@ -12,7 +12,7 @@
  *
  **********************************/
 #include "Arduino.h"
-#include "rfiduino.h"
+#include "RFIDuino.h"
 
 RFIDuino::RFIDuino()
 {
