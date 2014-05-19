@@ -10,6 +10,12 @@
  * data over XBees. 
  **********************************/
  
+ 
+ /**********************************
+ * sude apt-get install cu
+ * 63,0,183,173,75
+ **********************************/
+ 
 #include <RFIDuino.h> //include the RFIDuino Library
 
 //Define the pins for our outputs
